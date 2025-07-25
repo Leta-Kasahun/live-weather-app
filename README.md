@@ -1,3 +1,3 @@
 ## 🖼️ Preview
 
-![Weather App Banner](assets/image.png)
+![Weather App Banner](image.png)
